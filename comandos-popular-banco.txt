@@ -1,0 +1,3 @@
+- Mudar host para "localhost"
+- php artisan migrate
+- php artisan db:seed //cria dados faker, criado no seeders e no factories.
